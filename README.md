@@ -9,7 +9,7 @@ Current possibilities are :
 Basic reverse engineering shows that the C4 is obviously a USB-MIDI device, but also features a HID interface. This HID endpoint is used by Neuro Desktop app to communicate between the pedal and the computer through interrupt requests.
 Communication protocols I have discovered and used for this project :
 - 0x36 followed by a preset memory address coded on 3 bytes dumps 32 bytes starting from the memory address provided
-- 0x77 followed by a preset number (0-127) coded on 1 byte select the corresponding preset
+- 0x77 followed by a preset number (0-127) coded on 1 byte selects the corresponding preset
 
 # First step : Python implementation and test
 The basic Python code included in this repository demonstrates the possibility to use HID interrupt requests to display and change presets. It uses Python HID libraries. This code is mainly aimed at testing the communication protocol.
