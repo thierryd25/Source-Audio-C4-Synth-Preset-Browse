@@ -23,5 +23,5 @@ Thanks to the awesome work done by Hathach (TinyUSB) and Sekigon-Gonnoc (PICO-PI
 The prototype is still under development but does the job quite well (still few bugs though...). I will upload the code later as some cleanup is required.
 
 # Disclaimer
-This project is not meant to be commercial or whatever, I am just an electronics hobbyist (and bass player) who wants to add preset browse/select functionality to the C4 Synth pedal.
+This project is not meant to be commercial, I am just an electronics hobbyist (and bass player) who wants to add preset browse/select functionality to the C4 Synth pedal.
 Otherwise said, you can freely use the code and schematics provided here, but at your own risk. Do not expect any technical support from my side. I am far from being a highly skilled MCU/Electronics developer... Take a look at my code and you will understand :-)
