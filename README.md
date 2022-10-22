@@ -25,3 +25,4 @@ The prototype is still under development but does the job quite well (still few 
 # Disclaimer
 This project is not meant to be commercial or whatever, I am just an electronics hobbyist (and bass player) who wants to add preset browse/select functionality to the C4 Synth pedal.
 Otherwise said, you can freely use the code and schematics provided here, but do not expect any technical support from me. I am far from being a highly skilled MCU/Electronics developer. Just look at my code and you will understand :-)
+I will upload this code later as some cleanup is required.
