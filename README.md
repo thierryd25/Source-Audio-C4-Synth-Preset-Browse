@@ -20,9 +20,8 @@ Thanks to the awesome work done by Hathach (TinyUSB) and Sekigon-Gonnoc (PICO-PI
 - Display current preset number/name on a I2C LCD screen
 - Use a rotary encoder+switch to browse active presets and select the one I want
 
-The prototype is still under development but does the job quite well (still few bugs though...)
+The prototype is still under development but does the job quite well (still few bugs though...). I will upload the code later as some cleanup is required.
 
 # Disclaimer
 This project is not meant to be commercial or whatever, I am just an electronics hobbyist (and bass player) who wants to add preset browse/select functionality to the C4 Synth pedal.
 Otherwise said, you can freely use the code and schematics provided here, but do not expect any technical support from me. I am far from being a highly skilled MCU/Electronics developer. Just look at my code and you will understand :-)
-I will upload this code later as some cleanup is required.
