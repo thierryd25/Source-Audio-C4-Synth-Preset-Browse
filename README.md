@@ -12,7 +12,7 @@ Communication protocols I have discovered and used for this project :
 - 0x77 followed by a preset number (0-127) coded on 1 byte select the corresponding preset
 
 # First step : Python implementation and test
-The basic Python code included in this repository demonstrates the possibility to use HID interrupt enpoints to display and change presets. It uses Python HID libraries. This code is mainly aimed at testing the communication protocol.
+The basic Python code included in this repository demonstrates the possibility to use HID interrupt requests to display and change presets. It uses Python HID libraries. This code is mainly aimed at testing the communication protocol.
 
 # Current step : prototype using a Raspberry Pi Pico with TinyUSB and PICO-PIO-USB libraries
 Thanks to the awesome work done by Hathach (TinyUSB) and Sekigon-Gonnoc (PICO-PIO-USB), I am working on a prototype that does the following :
