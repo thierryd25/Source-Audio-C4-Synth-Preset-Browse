@@ -1,4 +1,4 @@
-# Source-Audio-C4-Synth-Preset-Browse
+# Source Audio C4 Synth Preset Browse
 Source Audio C4 Synth pedal is an awesome guitar/bass effect, but it lacks preset browse and selection functionalities.
 Current possibilities are :
 1. Hardware implementation, only allows to access the first 6 presets in memory through a selection switch and a toggle button
